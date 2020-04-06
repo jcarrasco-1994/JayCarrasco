@@ -44,9 +44,9 @@ img{
 	text-align: center;
 	color: var(--dark);
 	font-size: 1.3rem;
-	box-shadow: var(--shadow);
+	box-shadow: 10px 10px var(--shadow);
 }
-.main-navbar:hover{
+a:hover{
 	background: var(--shadow);
 	color: var(--light);
 }
